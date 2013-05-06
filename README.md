@@ -7,9 +7,10 @@ This is a simple implementation of a Help Desk type program where a user request
 
 Steps to test:
 
-1. Set up the ShowKit module for Parse (http://beta.showkit.com/docs#parse_user_registration)
-2. Put your Parse API Key and ShowKit API keys into the AppDelegate.h file
-3. Run the project on two seperate iOS Devices
-4. Register and login as a support agent on one device
-5. Call the support agent using the get support button.
-6. Control the app from your second device!
+1. Download the latest ShowKit.framework from www.showkit.com/releases and drag this into your project (www.showkit.com/docs)
+2. Set up the ShowKit module for Parse (http://www.showkit.com/docs#parse_user_registration)
+3. Put your Parse API Key and ShowKit API keys into the AppDelegate.h file
+4. Run the project on two seperate iOS Devices
+5. Register and login as a support agent on one device
+6. Call the support agent using the get support button.
+7. Control the app from your second device!
