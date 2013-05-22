@@ -24,7 +24,6 @@
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated]; 
     [ShowKit sharedInstance];
-    [self shkNeedsUpdate]; //ensure gesture controls have it (After Scrum)
 }
 
 - (void)didReceiveMemoryWarning
